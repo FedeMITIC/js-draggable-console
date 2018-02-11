@@ -1,3 +1,6 @@
+# FORK NOT ACTIVE
+> Moved everything to the main repo at https://github.com/Lykos94/js-draggable-console
+
 # js-draggable-console
 
 ## What?
